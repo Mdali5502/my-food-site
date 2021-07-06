@@ -1,0 +1,241 @@
+body{
+    margin: 0px;
+   background-color: rgb(235, 232, 232);
+   
+}
+span{
+    color: rgb(226, 13, 13);
+}
+h3{
+    font-size: 50px;
+    font-weight: bold;
+}
+.header{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-header{
+    width:50% ;
+    
+}
+.half-header img{
+    width: 75%;
+    margin-right: 150px;
+  
+  margin-top: 80px;
+
+  
+}
+#dot-image{
+    background-image: url(images/dot-image.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-left: 20px;
+    
+    
+    
+}
+.header-para p{
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    padding-left: 100px;
+    margin-top:200px;
+    
+}
+.header-para2{
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 100px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: lighter;
+}
+.button{
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(124, 0, 128));
+    padding: 10px 30px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: white;
+    font-size:15px;
+  
+}
+.middle{
+  
+display: flex;
+margin-bottom: 50px;
+background-color: rgb(250, 204, 204);
+
+
+
+
+  
+   
+}
+.middle-left{
+    width: 40%;
+}
+.middle-left img{
+    margin-left: 100px;
+    margin-right: 100px
+     ;
+    }
+
+    .middle-right{
+    width: 50%;
+    margin-left: 100px;
+}
+.middle-right {
+    text-align: justify;
+    
+    padding-right: 300px;
+    padding-left: 100px;
+}
+.middle-right h1{
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 150px;
+}
+.middle-right p{
+    font-size: 20px;
+    font-family:'Cormorant Garamond', serif;
+    padding-bottom: 20px;
+}
+.reciepies{
+    display: flex;
+    margin-bottom: 50px;
+    
+
+}
+.chicken{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+}
+.mutton{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 15px;
+    padding-right: 2%;
+    border-radius: 20px;
+}
+.biriyani{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 15px;
+    padding-right: 2%;
+    border-radius: 20px;
+}
+.third h1{
+    font-size: 40px;
+    font-family:'Cormorant Garamond', serif ;
+    text-align: center;
+}
+.third p{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: justify;
+    text-align: center;
+    font-size:20px ;
+   
+}
+.heading p{
+    text-align: justify;
+    text-align: center;
+    font-size:20px ;
+   font-family: 'Cormorant Garamond', serif;
+   padding-left: 300px;
+   padding-right: 300px;
+   padding-bottom: 20px;}
+  
+.chicken p{
+    text-align: justify;
+    
+}
+.mutton p{
+    text-align: justify;
+    
+}
+.biriyani p{
+    text-align: justify;
+    
+}
+.reciepies img{
+    margin-top: 10px;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+.social{
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 10px 10px 40px grey;
+    margin-bottom: 50px;
+    margin-left: 68px;
+    margin-right: 68px;
+}
+.youtube{
+    width: 30%;
+text-align: center;
+} 
+    
+.instagram{
+    width: 30%; 
+    text-align: center;
+   
+}
+
+.dribble{
+    width: 40%;
+    text-align: center;
+   
+}
+.social h1{
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.social p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.brances h1{
+    font-size: 40px;
+    font-family:'Cormorant Garamond', serif ;
+    text-align: center;
+    padding-top: 50px;
+}
+.brances p{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: justify;
+   
+    font-size:20px ;
+}
+.brances{
+  background-color: rgb(250, 187, 163);
+ 
+padding-bottom: 10px;
+}
+.black{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+.black h5{
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    color: rgb(97, 94, 94);
+margin-top: 25px;
+padding-top:50px;}
+
+.black p{
+    color:grey ;text-align: center;
+
+}
